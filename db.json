@@ -1,0 +1,36 @@
+{
+    "amigos": [
+        {
+            "nombre":   "Jairo",
+            "apellido": "Bravo",
+            "edad": 56
+        },
+        {
+            "nombre":   "Yovanny",
+            "apellido": "Medina",
+            "edad": 56
+        },
+        {
+            "nombre":   "Javier",
+            "apellido": "Bravo",
+            "edad": 60
+        }
+    ],
+    "amigas": [
+        {
+            "nombre":   "Maria",
+            "apellido": "Torrealba",
+            "edad": 56
+        },
+        {
+            "nombre":   "Iris",
+            "apellido": "Abdulraseg",
+            "edad": 56
+        },
+        {
+            "nombre":   "Keila",
+            "apellido": "Vargas",
+            "edad": 60
+        }
+    ]
+}
